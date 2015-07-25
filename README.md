@@ -1,2 +1,2 @@
 # github_flow_demo
-This repo is made by michitomo
+This repo is made by Miyauchi
